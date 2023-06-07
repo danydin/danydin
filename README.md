@@ -1,5 +1,4 @@
-test 
-<h1 align="center">I'm Dean Ben</h1>
+ <h1 align="center">I'm Dean Ben</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+enthusiastic+DevOps+Automation+Engineer&font=Fira+Code&size=30&pause=1000&center=true&width=1000)](https://git.io/typing-svg)
 
@@ -34,9 +33,7 @@ test
 </p>
 
 <h3 align="left">Current Knowledge & Learning:</h3>
-<p align="left"> <img
-                src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40"
-                height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/"
                 target="_blank"> <img
@@ -58,9 +55,8 @@ test
                         alt="html5" width="40" height="40" /> </a> <a
                 href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img
                         src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-                        alt="illustrator" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-                        alt="java" width="40" height="40" /> </a> <a
+                        alt="illustrator" width="40" height="40" /> </a> 
+                         <a
                 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                         alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org"
