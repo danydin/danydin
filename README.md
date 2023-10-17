@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+enthusiastic+DevOps+Automation+Engineer&font=Fira+Code&size=30&pause=1000&center=true&width=1000)](https://git.io/typing-svg)
 
-- 🌱 **I’m currently learning: DevOps & Automation.**
+- 🌱 **Working in: DevOps, Cloud, AI .**
 
 - 👨‍💻 **All of my projects are available on my [PORTFOLIO](https://danydin.github.io/portfolio/)**
 
-- 💬 **Open to collaboration on DEV-OPS / Automation projects**
+- 💬 **Open to collaboration on similar projects**
 
 - 📫 **How to reach me deanrtah@gmail.com**
 
