@@ -4,7 +4,7 @@
 
 - 🌱 **Back End developer**
 
-- 👨‍💻 **All of my projects are available on my [PORTFOLIO - danydin.github.io/portfolio](https://danydin.github.io/portfolio/){:target="_blank"}**
+- 👨‍💻 **All of my projects are available on my <a href="https://danydin.github.io/portfolio/" target="_blank" rel="noopener noreferrer">PORTFOLIO - danydin.github.io/portfolio</a>**
 
 - 💬 **Open to collaboration**
 
