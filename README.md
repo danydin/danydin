@@ -4,7 +4,7 @@
 
 - 🌱 **Back End developer**
 
-- 👨‍💻 **All of my projects are available on my [PORTFOLIO](https://danydin.github.io/portfolio/)**
+- 👨‍💻 **All of my projects are available on my [PORTFOLIO - danydin.github.io/portfolio](https://danydin.github.io/portfolio/)**
 
 - 💬 **Open to collaboration**
 
