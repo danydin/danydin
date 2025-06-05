@@ -2,13 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=An+enthusiastic+Backend+Automation+Engineer&font=Fira+Code&size=30&pause=1000&center=true&width=1000)](https://git.io/typing-svg)
 
-- 🌱 **Back End developer**
+- 🌱 **Windows Automation**
 
 - 👨‍💻 **All of my projects are available on my <a href="https://danydin.github.io/" target="_blank" rel="noopener noreferrer">PORTFOLIO - danydin.github.io/</a>**
 
-- 💬 **Open to collaboration**
-
-- 📫 **How to reach me deanrtah@gmail.com**
+- 📫 **Reach me at deanrtah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
